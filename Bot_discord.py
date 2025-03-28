@@ -76,4 +76,4 @@ async def _bot(ctx):
     await ctx.send('Yes, the bot is cool.')
 
 
-bot.run('token')
+bot.run('https://discord.com/oauth2/authorize?client_id=1353444328902492260&permissions=8&integration_type=0&scope=bot')
